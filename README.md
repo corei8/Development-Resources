@@ -3,4 +3,5 @@ Collection of go-to sites for development organized per language or per group (e
 
 ### CSS
 
-- [CSS Grid Cheat Sheet](https://grid.malven.co/)
+- [CSS Grid Cheat Sheet](https://grid.malven.co/){:target="_blank"}
+
